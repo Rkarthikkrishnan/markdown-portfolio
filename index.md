@@ -1,21 +1,10 @@
----
-layout: default
----
+# This is an <h1> tag
+## This is an <h2> tag
+###### This is an <h6> tag
+*This text will be italic*
+_This will also be italic_
 
-{% include 01-name.md %}
+**This text will be bold**
+__This will also be bold__
 
-<br>
-
-{% include 02-image.md %}
-
-<br>
-
-{% include 03-links.md %}
-
-<br>
-
-{% include 04-lists.md %}
-
-<br>
-
-{% include 05-emphasis.md %}
+_You **can** combine them_  
